@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mmcm"]
+	path = mmcm
+	url = https://github.com/nshi-stat/mmcm
+	shallow = true
+	registered = true
+[submodule "ph2bayes"]
+	path = ph2bayes
+	url = https://github.com/nshi-stat/ph2bayes
+	shallow = true
+	registered = true
+[submodule "pimeta"]
+	path = pimeta
+	url = https://github.com/nshi-stat/pimeta
+	shallow = true
+	registered = true

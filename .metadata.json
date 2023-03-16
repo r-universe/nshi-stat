@@ -1,0 +1,14 @@
+[
+  {
+    "package": "mmcm",
+    "oncran": true
+  },
+  {
+    "package": "ph2bayes",
+    "oncran": true
+  },
+  {
+    "package": "pimeta",
+    "oncran": true
+  }
+]
